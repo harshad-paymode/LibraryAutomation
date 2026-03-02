@@ -1,0 +1,9 @@
+*.pt
+notebooks
+DataBase
+.env
+faceData
+output
+test_images
+*.docx
+__pycache__
